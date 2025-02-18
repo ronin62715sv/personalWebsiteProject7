@@ -1,0 +1,24 @@
+{
+  "name": "personalwebsiteproject7",
+  "version": "1.0.0",
+  "description": "- Official start date 06 2338 EST FEB 2025.  - This is the repo for a starter website that will be used to experiment and collaborate on as well as host our collection of personal projects and interests.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "live-server --port=1337 src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronin62715sv/personalWebsiteProject7.git"
+  },
+  "author": "ronin62715sv_&_TheTempest7",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ronin62715sv/personalWebsiteProject7/issues"
+  },
+  "homepage": "https://github.com/ronin62715sv/personalWebsiteProject7#readme"
+}
